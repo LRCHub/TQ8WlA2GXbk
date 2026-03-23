@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Pretender",
   "base_artist": "Official髭男dism",
-  "createdAt": "2025-12-02T13:11:07.199381Z",
+  "createdAt": "2026-03-23T08:35:19.207660Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,24 @@
       "artist": "Official髭男dism",
       "has_synced": false,
       "path": "select/pl_01_Pretender_Official髭男dism.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/localdb_01_Pretender_Official髭男dism.lrc",
+      "repo_name": "0sDmhAItwbI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/localdb_02_Pretender_Official髭男dism.txt",
+      "repo_name": "TQ8WlA2GXbk"
     }
   ]
 }
